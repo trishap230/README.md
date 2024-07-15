@@ -12,7 +12,10 @@ To generate AI responses to emails, given past email data. These emails will mod
 
 
 ### Stretch Goals:
-#### Easy:
+#### Easy: 
+- Adding the name of the person to respond to and a signature
 #### Medium:
+- Implementing the use of questions in the email (complex, not "how are you?")
 #### Hard:
+- Since we are using the data from a specific person's email, it would be harder to allow this model to respond to emails of another person
 
